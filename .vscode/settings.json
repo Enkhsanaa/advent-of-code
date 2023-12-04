@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.conf": "ini",
+    "ostream": "cpp",
+    "iosfwd": "cpp"
+  }
+}
