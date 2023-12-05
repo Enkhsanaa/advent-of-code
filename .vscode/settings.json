@@ -3,5 +3,9 @@
     "*.conf": "ini",
     "ostream": "cpp",
     "iosfwd": "cpp"
-  }
+  },
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.unstable": false,
+  "editor.tabSize": 4
 }
